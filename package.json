@@ -1,0 +1,14 @@
+{
+  "name": "strikersoft-test-assignment-short",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/n9m2w9q8x0",
+  "main": "1.maxChar.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "25.0.1"
+  }
+}
